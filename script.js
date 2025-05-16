@@ -1,4 +1,4 @@
-const apiKey = "30e42fd27464024a1c78c545b41c1ace";
+const apiKey = "YOUR_API_KEY";
 
 const tempEl = document.getElementById("temp");
 const descEl = document.getElementById("description");
