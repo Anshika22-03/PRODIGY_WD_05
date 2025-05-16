@@ -3,9 +3,6 @@
 
 A clean, responsive weather web app that displays your **current weather** conditions based on your location. It uses the **OpenWeatherMap API** and shows details like temperature, humidity, wind speed, and weather description with a sleek dark UI.
 
-![Screenshot](assets/screenshot.png) <!-- Optional: Add your screenshot here -->
-
----
 
 ### ✨ Features
 
@@ -93,4 +90,4 @@ const apiKey = "YOUR_API_KEY_HERE";
 ### 🧑‍💻 Author
 
 **Anshika Srivastava**  
-📧 [Add your email or GitHub link here]
+📧 https://github.com/Anshika22-03
